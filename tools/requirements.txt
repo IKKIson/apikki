@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+gunicorn
+commentjson==0.8.3
